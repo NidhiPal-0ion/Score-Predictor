@@ -1,0 +1,14 @@
+{
+  "model": "Linear Regression",
+  "input_features": {
+    "study_hours_per_week": 20.0,
+    "attendance_percentage": 88.0,
+    "previous_exam_score": 74.0,
+    "assignments_completed": 14.0,
+    "sleep_hours": 7.5,
+    "parental_education": 3.0,
+    "tutoring_sessions": 4.0,
+    "stress_level": 4.0
+  },
+  "predicted_final_score": 69.17
+}

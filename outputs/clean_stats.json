@@ -1,0 +1,11 @@
+{
+  "duplicates_removed": 5,
+  "target_nulls_dropped": 0,
+  "missing_features": {
+    "study_hours_per_week": 2,
+    "attendance_percentage": 2,
+    "previous_exam_score": 2,
+    "assignments_completed": 2,
+    "sleep_hours": 2
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Model": "Linear Regression",
+    "MAE": 3.2088,
+    "MSE": 17.3003,
+    "RMSE": 4.1594,
+    "R2": 0.9346
+  },
+  {
+    "Model": "Ridge Regression",
+    "MAE": 3.2143,
+    "MSE": 17.3024,
+    "RMSE": 4.1596,
+    "R2": 0.9346
+  },
+  {
+    "Model": "Random Forest",
+    "MAE": 6.6277,
+    "MSE": 61.1916,
+    "RMSE": 7.8225,
+    "R2": 0.7688
+  },
+  {
+    "Model": "Gradient Boosting",
+    "MAE": 5.5452,
+    "MSE": 45.4497,
+    "RMSE": 6.7416,
+    "R2": 0.8283
+  }
+]

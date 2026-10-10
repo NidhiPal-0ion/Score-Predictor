@@ -1,0 +1,38 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Trained models (optional: keep or ignore)
+# models/*.pkl
+
+# Environment variables
+.env
+*.env
+
+# IDE / OS
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Streamlit
+.streamlit/secrets.toml
