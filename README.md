@@ -1,4 +1,4 @@
-# 🎓 Student Score Predictor
+# 🎓Score Predictor
 
 A complete, portfolio-ready machine learning project that predicts a student's final exam score from study habits, attendance, lifestyle factors, and prior academic performance.
 
